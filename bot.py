@@ -1,7 +1,7 @@
 import discord
 from discord.ext.commands import Bot
 import time
-token = "NzMwODg5NzM1MzIwMzcxMzQz.Xws6PA.nOTY09rcJuX5OjW6jWc30xrzLsQ"
+token = "yourcode"
 client = discord.Client()
 bot = Bot("!")
 
